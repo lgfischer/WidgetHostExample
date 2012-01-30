@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="APPWIDGET_HOST_ID" type="id"/>
+    <item name="REQUEST_CREATE_APPWIDGET" type="id"/>
+    <item name="REQUEST_PICK_APPWIDGET" type="id"/>
+    
+</resources>

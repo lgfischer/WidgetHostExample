@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/addWidget" android:title="@string/menu_insert_widget_label"></item>
+    <item android:id="@+id/removeWidget" android:title="@string/menu_remove_widget_label"></item>
+</menu>
